@@ -1,0 +1,31 @@
+# PDF files (sensitive legal documents)
+*.pdf
+
+# Excel files (processed data)
+*.xlsx
+*.xls
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# macOS
+.DS_Store
+
+# Data directories (contain sensitive info)
+DTLA Law Fact Sheets/
+DTLA Doc Pulls/
+dtla thin allegations/
+over the top allegations/
+
+# Backup files
+~$*
+*.bak
+*.tmp
